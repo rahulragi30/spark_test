@@ -50,6 +50,14 @@ object sparkobj {
     flatdf.show()
     flatdf.printSchema()
 
+    val wcol = flatdf.withColumnRenamed("id", "id_no")
+      .withColumn("permanent_chk", lit(col("permanent")))
+        .withColumn("temporary_chk", lit("Chennai-temporary")).withColumn("workloc_chk", lit("pune-workloc"))
+
+
+    wcol.show()
+    wcol.printSchema()
+
 
 
   }
