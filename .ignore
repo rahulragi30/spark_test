@@ -1,0 +1,6 @@
+# Ignore compiled binaries and build artifacts
+.idea
+
+# Ignore sensitive configuration files
+config.ini
+secrets.json
