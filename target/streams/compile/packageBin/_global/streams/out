@@ -1,0 +1,19 @@
+[debug] Packaging C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\sbt_demo_2.12-0.1.2-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	Match.csv
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\Match.csv
+[debug] 	sparkpack
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack
+[debug] 	sparkpack\ipl_joins$.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\ipl_joins$.class
+[debug] 	sparkpack\ipl_joins.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\ipl_joins.class
+[debug] 	sparkpack\nyc_data$.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\nyc_data$.class
+[debug] 	sparkpack\nyc_data.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\nyc_data.class
+[debug] 	sparkpack\sparkobj$.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\sparkobj$.class
+[debug] 	sparkpack\sparkobj.class
+[debug] 	  C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes\sparkpack\sparkobj.class
+[debug] Done packaging.

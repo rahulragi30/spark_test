@@ -1,0 +1,7 @@
+[debug] > Exec({file:/C:/Users/Rahul/IdeaProjects/sbt_demo/}root/clean, None, None)
+[debug] Evaluating tasks: clean
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 0 s, completed Aug 10, 2023 3:30:28 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

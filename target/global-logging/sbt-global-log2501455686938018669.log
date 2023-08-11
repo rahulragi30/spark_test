@@ -1,0 +1,14 @@
+[debug] > Exec({file:/C:/Users/Rahul/IdeaProjects/sbt_demo/}root/package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\Users\Rahul\IdeaProjects\sbt_demo\target\scala-2.12\classes ...
+[warn] C:\Users\Rahul\IdeaProjects\sbt_demo\src\main\scala\sparkpack\ipl_joins.scala:77:4: multiline expressions might require enclosing parentheses; a value can be silently discarded when Unit is expected
+[warn]    """ipldf.write
+[warn]    ^
+[warn] one warning found
+[info] done compiling
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[success] Total time: 2 s, completed Aug 10, 2023 3:30:37 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

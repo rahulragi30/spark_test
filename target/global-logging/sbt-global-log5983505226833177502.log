@@ -1,0 +1,8 @@
+[debug] > Exec({file:/C:/Users/Rahul/IdeaProjects/sbt_demo/}root/package, None, None)
+[debug] Evaluating tasks: Compile / package
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] multiple main classes detected: run 'show discoveredMainClasses' to see the list
+[success] Total time: 1 s, completed Aug 9, 2023 4:41:16 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

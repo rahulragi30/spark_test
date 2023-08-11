@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file C:\Users\Rahul\IdeaProjects\sbt_demo\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock ...
+[warn] C:\Users\Rahul\IdeaProjects\sbt_demo\src\main\scala\sparkpack\ipl_joins.scala:77:4: multiline expressions might require enclosing parentheses; a value can be silently discarded when Unit is expected
+[warn]    """ipldf.write
+[warn]    ^
+[warn] one warning found
+[debug] Releasing lock on file C:\Users\Rahul\IdeaProjects\sbt_demo\project\target\.sbt-compilation-infos\root-compile\.sbt-idea-lock.
